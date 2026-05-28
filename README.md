@@ -8,7 +8,7 @@
 
 ## Overview
 
-This document captures a decade of hands-on experience inside the ServiceNow ecosystem — across four distinct roles: seller, implementer, application developer, and end-user operator. It is not a theoretical framework. It is a documented account of how the ServiceNow channel motion actually works, drawn from real enterprise engagements spanning legal, aerospace, life sciences, insurance, and professional services.
+This document captures a decade of hands-on experience inside the ServiceNow ecosystem, across four distinct roles: seller, implementer, application developer, and end-user operator. It is not a theoretical framework. It is a documented account of how the ServiceNow channel motion actually works, drawn from real enterprise engagements spanning legal, aerospace, life sciences, insurance, and professional services.
 
 Most ServiceNow alliance professionals have worked one side of this equation. This playbook reflects all four.
 
@@ -20,13 +20,13 @@ Most ServiceNow alliance professionals have worked one side of this equation. Th
 Closing enterprise ServiceNow deals through a partner channel, including deal registration, partner coordination, multi-stakeholder executive alignment, and commercial structuring.
 
 ### 2. Deploy
-Implementing ServiceNow ITSM, CMDB, ITOM, and PPM for enterprise customers — managing the delivery motion from scoping through go-live and Day 2 managed services.
+Implementing ServiceNow ITSM, CMDB, ITOM, and PPM for enterprise customers, managing the delivery motion from scoping through go-live and Day 2 managed services.
 
 ### 3. Build
 Developing custom applications on the ServiceNow platform that extend core functionality into industry-specific workflows.
 
 ### 4. Operate
-Running a global PMO on ServiceNow PPM as the direct internal customer — understanding the platform from the buyer's seat, not just the seller's.
+Running a global PMO on ServiceNow PPM as the direct internal customer, understanding the platform from the buyer's seat, not just the seller's.
 
 ---
 
@@ -139,13 +139,13 @@ New ServiceNow logos from cold outreach close slowly and at lower ACV. The highe
 Customers who buy product without services rarely achieve the outcomes they expected. Partners who separate the two motions create churn. Services attach at the point of sale is a commercial discipline, not an upsell.
 
 **3. The platform is bigger than ITSM.**
-ITSM is the entry point. The expansion opportunity is in CMDB, ITOM, PPM, custom app development, and AI-driven automation. Partners who only sell ITSM leave most of the platform value — and most of the revenue — on the table.
+ITSM is the entry point. The expansion opportunity is in CMDB, ITOM, PPM, custom app development, and AI-driven automation. Partners who only sell ITSM leave most of the platform value and most of the revenue on the table.
 
 **4. Day 2 is the moat.**
 Managed services, upgrade support, and ongoing optimization are where partner economics actually work. The initial implementation is the entry cost. The managed services relationship is the asset.
 
 **5. The buyer has changed.**
-ServiceNow decisions increasingly involve business unit leaders, not just IT. The CHRO, CFO, and COO are now in the room. Partner sellers who can hold that conversation — connecting platform capability to business outcomes in non-technical language — win at a different rate than those who can only speak to IT leadership.
+ServiceNow decisions increasingly involve business unit leaders, not just IT. The CHRO, CFO, and COO are now in the room. Partner sellers who can hold that conversation, connecting platform capability to business outcomes in non-technical language, a win at a different rate than those who can only speak to IT leadership.
 
 **6. AI is reshaping the GTM motion right now.**
 ServiceNow's Now Assist and AI Agents roadmap is giving partners a new entry point into accounts that have stalled on traditional ITSM expansion. The AI conversation opens doors that the platform renewal conversation does not.
